@@ -1,7 +1,10 @@
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jobdata.streamlit.app/)
-# 🤓 Data Analyst Job Post Analyzer v.1.0  
-What up, data nerds! This app is open-sourcing job requirements to aspiring data nerds so they can more efficiently focus on the skills they need to know for their job. 
+# 🤓 Electrochemist Job Post Analyzer v.0.1  
+This app is open-sourcing job requirements to aspiring Electrochemists so they can more efficiently focus on the skills they need to know for their job. 
 ![dashboard](/images/dashboard.png)
+
+
+
 ---
 ### Want to contribute?  
 - **📊 Data Analysis:** Share any interesting insights you find from the [dataset](https://www.kaggle.com/datasets/lukebarousse/data-analyst-job-postings-google-search) to this [subreddit](https://www.reddit.com/r/DataNerd/) and/or [Kaggle](https://www.kaggle.com/code/lukebarousse/eda-of-job-posting-data).  
